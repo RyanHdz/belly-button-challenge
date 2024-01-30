@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.header {
+    text-align: center;
+    padding: 10px;
+    background-color: #f8f9fa;
+}
+.main-content {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.left-column {
+    flex: 1;
+}
+.right-column {
+    flex: 2;
+}
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f8f9fa;
+}
